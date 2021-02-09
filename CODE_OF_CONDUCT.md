@@ -1,5 +1,10 @@
 # Code of Conduct
 
+
+
+
+
+
 *Published 15 December 2014 (v1.0)*
 
 This Code of Conduct governs how we behave in any forum and whenever we will be judged by our actions. We expect it to be honored by everyone who represents the Play community officially or informally, claims affiliation with the project or participates directly.
